@@ -17,9 +17,9 @@ return [
 
     'paths' => ['api/*', 'sanctum/csrf-cookie'],
 
-    'allowed_methods' => ['*'],
+    'allowed_methods' => ['POST', 'GET', 'DELETE'],
 
-    'allowed_origins' => ['*'],
+    'allowed_origins' => ['https://boris1979509.github.io'],
 
     'allowed_origins_patterns' => [],
 
