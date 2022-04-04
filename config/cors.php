@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:8080', 'boris1979509.github.io'],
+    'allowed_origins' => ['http://localhost:8080', 'https://boris1979509.github.io'],
 
     'allowed_origins_patterns' => [],
 
